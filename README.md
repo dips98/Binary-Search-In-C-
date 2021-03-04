@@ -15,7 +15,7 @@ Requirement : Given array should be sorted.
 
 
 
-#Complexity of this Binary Search is:
+# Complexity of this Binary Search is:
 
 Every time you are reducing your N by dividing by 2:
 That is N/2 N/4 N/8 .... N/2**n.
@@ -26,11 +26,11 @@ Average case       O(1)
 
 
 
-#Input:
+# Input:
 1. Enter the size of an array.
 2. Enter the elements of array.
 3. enter the element to which index have to find (Key value).
 
 
-#Output:
+# Output:
 Index number of the key value.
