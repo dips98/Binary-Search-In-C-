@@ -22,9 +22,9 @@ That is N/2 N/4 N/8 .... N/2**n.
 
 By solving this taking log to the both side we get O(log n).
 
-Worst Case         O(log n)
+Worst Case is O(log n).
 
-Best Case          O(1)
+Best Case is O(1).
 
 
 
