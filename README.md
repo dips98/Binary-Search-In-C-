@@ -21,6 +21,7 @@ Every time you are reducing your N by dividing by 2:
 That is N/2 N/4 N/8 .... N/2**n.
 
 By solving this taking log to the both side we get O(log n).
+
 Worst case         O(log n)
 Average case       O(1)
 
