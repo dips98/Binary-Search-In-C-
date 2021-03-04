@@ -1,4 +1,4 @@
-# Binary-Search-In-C-
+# Binary-Search In C++ 
 Using Binary search for an element only for the sorted Array.
 
 Considered you have sorted array and want fo search specific element.
