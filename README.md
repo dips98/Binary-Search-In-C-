@@ -1,6 +1,7 @@
 # Binary-Search In C++ 
 
 Binary search is one of the popular algorithm for seaching the element.
+
 Requirement : Given array should be sorted.
 
 # Pseudo code:
