@@ -3,7 +3,7 @@
 Binary search is one of the popular algorithm for seaching the element.
 Requirement : Given array should be sorted.
 
-#Pseudo code:
+# Pseudo code:
 
 1. Make Lower and upper limit variable to the index value of array from 0 to size of an array respectively.
 2. Find the median index of the array.
