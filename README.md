@@ -6,7 +6,7 @@ Requirement : Given array should be sorted.
 
 # Pseudo code:
 
-1. Make Lower and upper limit variable to the index value of array from 0 to size of an array respectively.
+1. Make lower and upper limit variable to the index value of array from 0 to size of an array respectively.
 2. Find the median index of the array.
 3. Compare the median index value is equal to key value if yes, you found an element at median index value.
 4. Else compare the key value is greater or smaller.
